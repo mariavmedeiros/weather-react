@@ -1,0 +1,45 @@
+body {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.form-contorl {
+  border: 1.5px solid black;
+  border-radius: 6px;
+  font-size: 40px;
+}
+
+.col-6 {
+  padding-top: 10px;
+}
+.Temp {
+  background-color: rgb(212, 228, 243);
+  padding-left: 10px;
+}
+.btn-primary {
+  padding: 0 auto;
+  margin-left: 13px;
+}
+.btn-success {
+  padding: 0 auto;
+  margin-left: 6px;
+}
+img {
+  padding-left: 100px;
+}
+ul {
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  list-style: none;
+  color: rgb(82, 80, 80);
+  font-size: 16px;
+  font-weight: 100px;
+  line-height: 20px;
+  margin: 0;
+  padding: 0;
+}
+
+.city {
+  font-size: 50px;
+}

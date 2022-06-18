@@ -1,0 +1,13 @@
+.weather-app-wraper {
+  max-width: 600px;
+  margin: 30 auto;
+
+  padding: 20px;
+  border: 1.5px solid #898d99;
+  border-radius: 5px;
+}
+.mariamedeiros {
+  color: black;
+  font-size: 14px;
+  text-align: left;
+}
