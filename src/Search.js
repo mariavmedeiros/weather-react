@@ -69,7 +69,7 @@ export default function Search() {
         <div className="col-5">
           <ul>
             <li ClassName="city">
-              <strong>Tatui</strong>{" "}
+              <strong>Sao Paulo</strong>{" "}
             </li>
             <li>Temperature: 70ºF</li>
             <li>Description: Clear Sky</li>
