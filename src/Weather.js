@@ -10,7 +10,10 @@ export default function Weather() {
       </div>
       <div className="mariamedeiros">
         <small>
-          <a href="">Open-source code</a> by Maria Medeiros
+          <a href="https://github.com/mariavmedeiros/weather-react">
+            Open-source code
+          </a>{" "}
+          by Maria Medeiros
         </small>
       </div>
     </div>
